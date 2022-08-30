@@ -64,14 +64,14 @@ global.db.chain = chain(global.db.data)
 }
 loadDatabase()
 
-global.authFile = `MysticSession`
+global.authFile = `DORRASESSION`
 const { state, saveState, saveCreds } = await useMultiFileAuthState(global.authFile)
 
 const connectionOptions = {
 printQRInTerminal: true,
 auth: state,
 logger: P({ level: 'silent'}),
-browser: ['TheMystic-Bot','Safari','1.0.0']
+browser: ['DORRA-BOT-MD','Safari','1.0.0']
 }
 
 global.conn = makeWASocket(connectionOptions)
