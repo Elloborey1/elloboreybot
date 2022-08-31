@@ -1,4 +1,4 @@
-console.log('✅ㅤIniciando...')
+console.log('☑️ㅤIniciando bot...')
 import { join, dirname } from 'path'
 import { createRequire } from "module";
 import { fileURLToPath } from 'url'
@@ -32,7 +32,7 @@ if (isRunning) return
 isRunning = true
 let args = [join(__dirname, file), ...process.argv.slice(2)]
 
-say('[❗] Ajuste la pantalla para escanear el codigo QR', {
+say('escanea el siguiente código QR ', {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
@@ -54,7 +54,7 @@ p.send(process.uptime())
 break }})
 p.on('exit', (_, code) => {
 isRunning = false
-console.error('❎ㅤOcurrio un error inesperado:', code)
+console.error('😔ㅤOcurrio un error arreglalo:', code)
   
 p.process.kill()
 isRunning = false
