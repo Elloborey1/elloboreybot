@@ -31,4 +31,4 @@
  yarn install 
  npm install
  npm update
- npm start
+ npm start//
