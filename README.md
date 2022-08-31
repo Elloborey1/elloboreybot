@@ -12,18 +12,57 @@
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
 
-### `—◉ 📌 LETRA DEL BOT 📌`
+### `—◉ 🌹 LETRA DEL BOT 🌹`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
   
-### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+### `—◉ 🛡️ ACTIVAR EN REPLIT 🛡️`
 
 [![Run on Repl.it](https://repl.it/badge/github/DIEGO-OFC/DORRAT-BOT-MD)](https://repl.it/github/DIEGO-OFC/DORRAT-BOT-MD)
 
 
 
-### `—◉ ⚙️ AJUSTES ⚙️`
+### `—◉ 🛠️ AJUSTES 🛠️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/config.js)
+
+
+### `—◉ 🔮 ACTIVAR EN TERMUX 🔮` 
+- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+```bash
+> cd
+> termux-setup-storage
+> apt update 
+> pkg upgrade 
+> pkg install git -y
+> pkg install nodejs -y
+> pkg install ffmpeg -y
+> pkg install imagemagick -y
+> pkg install yarn
+> git clone https://github.com/DIEGO-OFC/DORRAT-TERMUX
+> cd DORRAT-TERMUX
+> yarn install 
+> npm install
+> npm update
+> npm install 
+> npm start
+```
+### `—◉ ✅ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✅`
+```bash
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd 
+> cd DORRAT-TERMUX
+> npm start
+```
+
+### `—◉ 🔰 OBTENER OTRO CODIGO QR EN TERMUX 🔰`
+- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A DORRAT-TERMUX $  
+```bash
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd 
+> cd DORRAT-TERMUX
+> rm -rf DORRASESSION 
+> npm start
+```
 
 ### `—◉ 📝 NOTAS 📝`
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
