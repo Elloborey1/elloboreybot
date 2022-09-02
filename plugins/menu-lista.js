@@ -1,4 +1,4 @@
-//el espacio lo pueden quitar cuando lo tengan en el servidor/host
+
 import { xpRange } from '../lib/levelling.js'
 
 const { levelling } = '../lib/levelling.js'
@@ -127,7 +127,7 @@ text: `╭─────────────────────❀\n�
 
 title: null,
 
-buttonText: "❗𝗦𝗘𝗟𝗘𝗖𝗖𝗜𝗢𝗡𝗘 𝗔𝗤𝗨𝗜❗", 
+buttonText: "🔰 𝗦𝗘𝗟𝗘𝗖𝗖𝗜𝗢𝗡𝗘 𝗔𝗤𝗨𝗜 🔰", 
 
 sections }
 
