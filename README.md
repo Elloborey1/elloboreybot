@@ -17,7 +17,7 @@
 > PUEDES PREGUNTAR CUALQUIER COSA Y SERAS AYUDADO EN EL GRUPO.
 
 <p align="hihg">   
-<a href="https://www.mediafire.com/download/czu5etk0ood51o4" target="_blank"> <img src="https://img.shields.io/badge/-DESCARGAR_TERMUX-%23E4405F?style=for-the-badge&logo=DESCARGAR_TERMUX&logoColor=black" target="_blank"></a> <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/src/unnamed.png" height="30px">
+  <a href="https://www.mediafire.com/download/czu5etk0ood51o4" target="_blank"> <img src="https://img.shields.io/badge/-DESCARGAR_TERMUX-%23E4405F?style=for-the-badge&logo=DESCARGAR_TERMUX&logoColor=black" target="_blank"></a> <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/src/unnamed.png" height="30px">
 
 
 ### `—◉ 🔮 ACTIVAR EN TERMUX 🔮` 
