@@ -16,10 +16,6 @@
 ---------
 > PUEDES PREGUNTAR CUALQUIER COSA Y SERAS AYUDADO EN EL GRUPO.
 
-
-### `—◉ 🌹 LETRA DEL BOT 🌹`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
-  
 ### `—◉ 🛠️ AJUSTES 🛠️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/fork)
 
